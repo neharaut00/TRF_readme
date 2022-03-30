@@ -35,37 +35,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravid
 ---
 
 
-## <h2 id="overview">☁️ Overview </h2>
+<h2 id="overview">☁️ Overview </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
 ---
-## <h2 id="tech-stack">📚 Tech Stack </h2>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
-
-
----
-## <h2 id="pfd">📝 Project Files Description </h2>
+<h2 id="tech-stack">📚 Tech Stack </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
 
 ---
-## <h2 id="getting-started"> 📖 Getting Started </h2>
+<h2 id="pfd">📝 Project Files Description </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
 
 ---
-## <h2 id="usage-example">💡Usage Example </h2>
+<h2 id="getting-started"> 📖 Getting Started </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
 
 ---
-## <h2 id="demo">💻 Demo/Screenshots </h2>
+<h2 id="usage-example">💡Usage Example </h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
+
+
+---
+<h2 id="demo">💻 Demo/Screenshots </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
 
 ---
 
-## <h2 id="contributors"> 🤝 Contributors </h2>
+<h2 id="contributors"> 🤝 Contributors </h2>
 | [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub><b>Juan Herrera</b></sub>](http://juandavidherrera.com/en)<br />        | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub><b>Alejandro Ñáñez</b></sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br />          | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br />    | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br />                               | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br />  |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub><b>Fabian Buitrago</b></sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub><b>teffcode</b></sub>](https://github.com/teffcode)<br />                    | [<img src="https://avatars3.githubusercontent.com/u/9259335?v=3" width="100px;"/><br /><sub><b>Alvaro Martinez</b></sub>](https://github.com/alvaromartinez986)<br /> | [<img src="https://avatars0.githubusercontent.com/u/348883?v=3" width="100px;"/><br /><sub><b>Jorge Ramírez</b></sub>](http://shinkei.github.io/)<br />         | [<img src="https://avatars0.githubusercontent.com/u/19542631?v=3" width="100px;"/><br /><sub><b>Camilo Perez</b></sub>](https://github.com/juancapm09)<br />   | [<img src="https://avatars3.githubusercontent.com/u/20744476?v=4" width="100px;"/><br /><sub><b>Harlen Giraldo</b></sub>](https://github.com/H4isan)<br />                    | [<img src="https://avatars2.githubusercontent.com/u/16061815?v=4" width="100px;"/><br /><sub><b>Camila Gomez</b></sub>](https://github.com/camigomez35)<br /> |
