@@ -31,7 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravid
     <a href="#contributors"> ➤ Contributors</a><br>
   </ul>
 </details>
-<br>
 
 ---
 
@@ -39,37 +38,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravid
 ## <h2 id="overview">☁️ Overview </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
-<br>
-
 ---
 ## <h2 id="tech-stack">📚 Tech Stack </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
-<br>
 
 ---
 ## <h2 id="pfd">📝 Project Files Description </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
-<br>
 
 ---
 ## <h2 id="getting-started"> 📖 Getting Started </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
-<br>
 
 ---
 ## <h2 id="usage-example">💡Usage Example </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
-<br>
 
 ---
 ## <h2 id="demo">💻 Demo/Screenshots </h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
 
-<br>
 
 ---
 
