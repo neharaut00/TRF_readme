@@ -1,5 +1,5 @@
 <!-- Name of the project -->
-<h1 align="center"> Project Name </h1>
+<h1> Project Name </h1>
 
 <!-- Badges -->
 <!-- ![OS](https://img.shields.io/badge/OS-Linux-red?style=flat&logo=linux)
@@ -20,13 +20,53 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravid
 
 
 <details open="open">
-  <summary><h2 id="table-of-contents"> :book: Table of Contents</h2></summary>
+  <summary><h2 id="table-of-contents"> 📃 Table of Contents</h2></summary>
   <ul>
-    <a href="#about-the-project"> ➤ About The Project</a> <br>
     <a href="#overview"> ➤ Overview</a><br>
+    <a href="#tech-stack"> ➤ Tech Stack</a> <br>
     <a href="#project-files-description"> ➤ Project Files Description</a><br>
     <a href="#getting-started"> ➤ Getting Started</a><br>
-    <a href="#references"> ➤ References</a><br>
-    <a href="#credits"> ➤ Credits</a><br>
+    <a href="#usage-example"> ➤ Usage Example</a><br>
+    <a href="#demoscreenshots"> ➤ Demo / Screenshots</a><br>
+    <a href="#contributors"> ➤ Contributors</a><br>
   </ul>
 </details>
+<br>
+
+---
+
+
+## ☁️ Overview
+
+<br>
+
+---
+## 📚 Tech Stack
+<br>
+
+---
+## 📝 Project Files Description
+<br>
+
+---
+## 📖 Getting Started
+<br>
+
+---
+## 💡Usage Example
+<br>
+
+---
+## 💻 Demo/Screenshots
+<br>
+
+---
+
+## 🤝 Contributors
+| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub><b>Juan Herrera</b></sub>](http://juandavidherrera.com/en)<br />        | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub><b>Alejandro Ñáñez</b></sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br />          | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br />    | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br />                               | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br />  |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub><b>Fabian Buitrago</b></sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub><b>teffcode</b></sub>](https://github.com/teffcode)<br />                    | [<img src="https://avatars3.githubusercontent.com/u/9259335?v=3" width="100px;"/><br /><sub><b>Alvaro Martinez</b></sub>](https://github.com/alvaromartinez986)<br /> | [<img src="https://avatars0.githubusercontent.com/u/348883?v=3" width="100px;"/><br /><sub><b>Jorge Ramírez</b></sub>](http://shinkei.github.io/)<br />         | [<img src="https://avatars0.githubusercontent.com/u/19542631?v=3" width="100px;"/><br /><sub><b>Camilo Perez</b></sub>](https://github.com/juancapm09)<br />   | [<img src="https://avatars3.githubusercontent.com/u/20744476?v=4" width="100px;"/><br /><sub><b>Harlen Giraldo</b></sub>](https://github.com/H4isan)<br />                    | [<img src="https://avatars2.githubusercontent.com/u/16061815?v=4" width="100px;"/><br /><sub><b>Camila Gomez</b></sub>](https://github.com/camigomez35)<br /> |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+
