@@ -9,29 +9,24 @@
 [![GitHub](https://img.shields.io/github/license/emalderson/ThePhish)](https://github.com/emalderson/ThePhish/blob/master/LICENSE)
 [![Documentation](https://img.shields.io/badge/Documentation-complete-green.svg?style=flat)](https://github.com/emalderson/ThePhish) -->
 
+
+<!-- GIF of the demo if available -->
 <!-- Short description in paragraph -->
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque gravida neque, condimentum faucibus ipsum fermentum ac. Vestibulum feugiat mollis vestibulum. Sed volutpat, est ac pretium suscipit, arcu felis aliquam quam, id bibendum augue nulla a risus. Sed mollis maximus ante in pretium. Ut et purus tempor, congue sem id, pellentesque magna. Cras at imperdiet ipsum, ut consectetur nisi. Maecenas suscipit, ligula in placerat fermentum, felis nisl 
+<br>
+<br>
+<br>
 <!-- Table of contents -->
-## Table of contents
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
+
 
 <details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project"> ➤ About The Project</a></li>
-    <li><a href="#overview"> ➤ Overview</a></li>
-    <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
-    <li><a href="#getting-started"> ➤ Getting Started</a></li>
-    <li><a href="#scenario1"> ➤ Scenario 1: Depth First Search </a></li>
-    <li><a href="#scenario2"> ➤ Scenario 2: Breadth First Search </a></li>
-    <li><a href="#scenario3"> ➤ Scenario 3: Uniform Cost Search </a></li>
-    <li><a href="#scenario4"> ➤ Scenario 4: A* search algorithm </a></li>
-    <li><a href="#scenario5"> ➤ Scenario 5: Finding All Corners </a></li>
-    <li><a href="#scenario6"> ➤ Scenario 6: Admissible and Consistent Heuristic </a></li>
-    <li><a href="#scenario7"> ➤ Scenario 7: Eating All Dots </a></li>
-    <li><a href="#scenario8"> ➤ Scenario 8: Suboptimal Search </a></li>
-    <li><a href="#references"> ➤ References</a></li>
-    <li><a href="#credits"> ➤ Credits</a></li>
-  </ol>
+  <summary><h2 id="table-of-contents"> :book: Table of Contents</h2></summary>
+  <ul>
+    <a href="#about-the-project"> ➤ About The Project</a> <br>
+    <a href="#overview"> ➤ Overview</a><br>
+    <a href="#project-files-description"> ➤ Project Files Description</a><br>
+    <a href="#getting-started"> ➤ Getting Started</a><br>
+    <a href="#references"> ➤ References</a><br>
+    <a href="#credits"> ➤ Credits</a><br>
+  </ul>
 </details>
